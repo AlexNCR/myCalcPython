@@ -1,6 +1,6 @@
 import myfunc
 
-print ("Welcome to my Math calculator on Python # Version 1.")
+print ("Welcome to my Math calculator on Python # Version 1.0")
 
 while True:
     print("Options: ")
